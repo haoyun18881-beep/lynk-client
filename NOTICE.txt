@@ -1,0 +1,7 @@
+Lynk Client Usage Notice
+Copyright (c) 2026 Lynk Project. All rights reserved.
+
+Permission is granted to download and use an unmodified copy of this client to connect to the official Lynk service.
+No permission is granted to resell, rebrand, redistribute modified copies, or operate a competing hosted service using this code.
+
+This v0.1.0 early-access client is provided as-is and must not be used for sensitive, regulated, payment, medical, or safety-critical data.
